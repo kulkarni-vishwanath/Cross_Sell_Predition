@@ -45,8 +45,3 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 ## Evaluation Metric
 The evaluation metrics for this competition is [ROC AUC Score](http://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html).
 
-## Leaderboard
-**Public Leaderboard:** 
-
-**Private Leaderboard:** 
-
